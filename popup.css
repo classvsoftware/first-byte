@@ -1,0 +1,26 @@
+/* popup.css */
+body {
+  font-family: "Arial", sans-serif;
+  padding: 20px;
+  width: 300px;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  color: #444;
+}
+
+#byteValue {
+  font-size: 16px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 20px;
+}

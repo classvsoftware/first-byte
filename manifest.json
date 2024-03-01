@@ -1,0 +1,15 @@
+{
+  "name": "First Byte",
+  "description": "Show the first byte of the HTTP response from the active URL",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"],
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
