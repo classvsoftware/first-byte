@@ -4,3 +4,4 @@ A completely pointless Chrome extension that shows the first byte of the HTTP re
 
 **[Magically, the reviews this extension has received are overwhelmingly positive!](https://mattfrisbie.substack.com/p/lets-buy-some-fake-chrome-extension)**
 
+![Glowing reviews for First Byte](/reviews.png)
